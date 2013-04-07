@@ -1,3 +1,4 @@
+source "https://rubygems.org"
 
 # lgremote requires the following gems
 
